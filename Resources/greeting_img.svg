@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#glow)">
+    <text x="50%" y="80" text-anchor="middle" font-family="Arial" font-size="40" fill="#4A4A4A">
+      Welcome to
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        additive="sum"
+        values="1; 1.01; 1"
+        dur="1.2s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+      />
+    </text>
+    
+    <text x="50%" y="140" text-anchor="middle" font-family="Arial" font-size="40" fill="#4A4A4A">
+      velmash's Github
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        additive="sum"
+        values="1; 1.01; 1"
+        dur="1.2s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+      />
+    </text>
+  </g>
+</svg>
