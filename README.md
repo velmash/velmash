@@ -2,9 +2,9 @@
    <img src="https://raw.githubusercontent.com/velmash/velmash/main/Resources/greeting_img.svg" />
 </div>
 
-## Hi there 👋
+## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4++years+of+bringing+iOS+apps+to+life)](https://git.io/typing-svg)
 
 <!--
 **velmash/velmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
