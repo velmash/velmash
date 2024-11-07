@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="https://raw.githubusercontent.com/velmash/velmash/main/Resources/greeting_img.svg" />
+</div>
+
 ## Hi there 👋
 
 <!--
