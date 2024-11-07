@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4++years+of+bringing+iOS+apps+to+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4++years+of+bringing+iOS+apps+to+life)]([https://git.io/typing-svg](https://www.linkedin.com/in/%ED%98%95%EC%B0%AC-%EC%9C%A4-92888920b/))
 
 <!--
 **velmash/velmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
